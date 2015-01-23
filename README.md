@@ -1,6 +1,6 @@
 
 
-This application implements a Monte Carlo trading system simulator. You select various inputs
+This Shiny application implements a Monte Carlo trading system simulator. You select various inputs
 describing a trading system and it then simulates many potential outcomes. Finally, it calculates and displays a number of useful statistics about the outcomes. It is useful to get a feel for how a particular trading system may perform in the future.
 
 Inputs:
