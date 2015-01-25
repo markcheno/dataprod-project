@@ -1,8 +1,9 @@
 library(shiny)
+library(shinythemes)
 require(markdown)
 
 shinyUI(
-  fluidPage(
+  fluidPage(theme=shinytheme("readable"),
 
     titlePanel("Trading System Simulator"),
     
